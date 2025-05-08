@@ -1,9 +1,43 @@
 ---
-title: "About"
+title: "Brandon Sosa"
+image: images/profile.jpg
+about:
+  template: jolla
+  image-width: 180px
+  image-shape: round
+  image-alt: "Brandon Sosa profile photo"
+  links:
+    - icon: link
+      text: BlueSky
+      href: https://bsky.app/profile/eco-sosa.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/eco-sosa
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/eco.sosa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/bsos
 ---
 
-About this site
+:::{#hero-heading}
 
-```{r}
-1 + 1
-```
+I'm Brandon Sosa — a Cuban-American marine ecologist and PhD candidate working to optimize coral reef restoration. My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, especially in the Florida Keys. I focus on the practical use of marine grazers like urchins and Caribbean king crabs to reduce algae and boost coral success.
+
+Outside the field, I’m passionate about science communication, ecosystem service valuation, and building tools that connect research to real-world decisions.
+
+## Education
+
+**Florida International University**, PhD in Environmental Science (In Progress)  
+**University of Queensland**, Study Abroad, Marine Biology (2019)  
+**Purdue University**, B.S. in Aquatic Sciences (2018)
+
+## Experience
+
+- Coral restoration research with NOAA, FIU, and the Mission: Iconic Reefs initiative  
+- Social and economic survey design for marine ecosystem valuation  
+- Mariculture experiments in abandoned saltwater quarries  
+- Speaker and mentor in ecological economics and marine science workshops
+
+:::

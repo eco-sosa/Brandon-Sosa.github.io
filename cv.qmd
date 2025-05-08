@@ -1,0 +1,105 @@
+---
+title: "CV"
+editor: visual
+---
+
+##### *last updated 05/08/2025 – email bsosa012@fiu.edu for updated copy of CV*
+
+| | | | |
+|:--------------------------:|:------------------------------------------:|:-------------------:|:-------------------------:|
+| Ph.D. Candidate | Florida International University | bsosa012@fiu.edu | North Miami Beach, FL |
+
+### Education
+
+| | |
+|----------------------------------------------------------|------------------:|
+| Florida International University – Ph.D., Natural Resource Management (**3.93 GPA**) | 2021–Present |
+| Purdue University – B.S., Aquatic Sciences: Marine & Freshwater (**3.74 GPA**) | 2017–2020 |
+
+### Research & Experience
+
+| | |
+|----------------------------------------------------------|------------------:|
+| **Research Consultant** – Everglades Total Economic Valuation, The Everglades Foundation | 2024–Present |
+| **Doctoral Researcher** – Invertebrate Grazer Stocking, Florida International University | 2021–Present |
+| **Graduate Researcher** – Tropical Marine Ecology Lab, FIU | 2022–2024 |
+| **Researcher** – Shedd Aquarium Cruise, Coral Reef II | July 2023 |
+| **Graduate Researcher** – Everglades Restoration Benefit-Cost Study, FIU | 2022–2023 |
+| **Student Researcher** – Seagrass Valuation in Biscayne Bay, FIU | 2023 |
+| **Undergraduate Researcher** – Coral Damage Literature Review, University of Queensland | 2019–2020 |
+| **Lab Technician** –  Fish Biology, Toxicants, Microplastics & Morphometrics, Dr. Höök's Lab, Purdue University  | 2019–2020 |
+
+### Leadership
+
+| | |
+|----------------------------------------------------------|------------------:|
+| **Biotic Intervention Lead** – Caribbean Reef Restoration Intervention Working Group, Reef Futures Workshop | 2024-2025 |
+| **Graduate Mentor** – South Florida Sustainable Environments Internship, FIU | 2024 |
+| **Field Research Lead** – Tropical Marine Ecology Lab, FIU | 2022–2024 |
+| **Tutor & Mentor** – TRIO Horizon, Purdue University | 2018–2020 |
+| **President & Treasurer** – Marine Biology Club, Purdue University | 2017–2020 |
+
+### Funding
+
+| | |
+|----------------------------------------------------------|------------------:|
+| IWFA Grants in Aid of Research | **$3,000** (2024) |
+| AMLC Graduate Grant in Aid of Research | **$2,000** (2023) |
+| GPSC Graduate Conference Travel | **$850** (2023) |
+| NSF CREST Research Award | **$3,000** (2023 - 2025) |
+| FIU Presidential Fellowship | **$30,000** per year (2021–2023) |
+| FEF McKnight Fellowship | **$30,000** per year (2023–2025) |
+
+#### Scholarships
+
+| | |
+|----------------------------------------------------------|------------------:|
+| Benjamin A. Gilman International | **$5,000** |
+| Pitzel Miami Foundation | **$7,000** |
+| Hispanic Scholarship Fund | **$5,000** |
+| CAPS, Inc. Miami Foundation | **$3,000** |
+| TRIO, Gladden, Clore, Gilman, and other scholarships | 2017–2020 |
+
+### Awards
+
+| | |
+|----------------------------------------------------------|------------------:|
+| FCE-LTER 2nd Place Presentation Award | 2023 |
+| Outstanding Scholar – Forestry & Natural Resources | 2018, 2020 |
+| National Hispanic Scholar | 2017–2019 |
+| Eagle Scout – Boy Scouts of America | 2016 |
+
+### Publications
+
+|                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hindsley, P., Chabba, M., **Sosa, B.**, & Vorseth, C. (in prep.). *Valuation report of the Greater Everglades System*. Everglades Foundation.                                                                                                                                                                                                                 |
+| Dilworth, J., Blanco Pimentel, M., Cunning, R., Dixon, S., Gamache, M., Gomez, M., Grottoli, A. G., Hackerott, S., Hall, C., Karp, R., Olivares-Cordero, D., **Sosa, B.**, The Workshop Consortium, & Kenkel, C. D. (in prep.). *Co-designing a future for Caribbean reefs: recommendations for the implementation of advanced coral restoration strategies*. |
+| **Sosa, B.**, Malinowski, C., & Höök, T. (in prep.). *Evaluating the maternal transfer of toxicants in BOFFF fish and impacts on larval success: a meta-analysis*. Dept. of Forestry and Natural Resources, Purdue University.                                                                                                                                |
+| Deribe, M., Zeleke, E., White, M., Oyege, I., **Sosa, B.**, Sharma, A., Dahal, S., Boucek, R., Rehage, J., & Ross, M. (in review). *Treading the minefield of science engagement: a perspective from novice scientists*. Submitted to *Frontiers in Ecology and the Environment*.                                                                             |
+ |
+ 
+ 
+[Datasets published]{.underline}
+Hosen, J. D., Barrett, M., Cunningham, C., Ebrahimi, A., Gulbranson, K., Hale, J., Hayes, T., Heltzel, A. N., Park, S., Rivera, B., Savage, D., **Sosa, B.**, Walker, G., & Williams, S. (2020). 2020 Purdue FNR Ecological Sensors Air Quality Data. Purdue University Research Repository. https://doi.org/10.4231/VF0B-B644
+
+
+
+### Selected Presentations
+
+| | |
+|----------------------------------------------------------|------------------:|
+| Valuing Marine Grazers for Coral Restoration – *Reef Futures 2024* | 2024 |
+| Igniting Research & Bridging Gaps – *McKnight Fellows* | 2024 |
+| Blueprints for the Blue – *Proposal Defense* | 2024 |
+| Coral Restoration Economics – *ISEE Conference* | 2023 |
+| Everglades Valuation Impacts – *FCE LTER Meeting* | 2023 |
+
+### Skills & Certifications
+
+| |
+|--|
+| **Analysis & Software**: R, Python, GitHub, ArcGIS Pro, Primer-E, CPCe, cost-effectiveness modeling |
+| **Field**: Grazer surveys, Coral outplanting, AAUS diver (100+ dives), AGRRA fish surveys, seagrass surveys |
+| **Lab**: Aqaculture systems, animal husbandry, fish necropsy, PCR, spectroscopy, microscopy |
+| **Certifications**: AAUS Scientific Diver, Chemical Safety, Boating (up to 30') and Trailer |

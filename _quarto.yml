@@ -8,15 +8,30 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: photos.qmd
+        text: Photos
+    right:
+      - icon: link
+        href: https://bsky.app/profile/eco-sosa.bsky.social
+        text: BlueSky
+      - icon: github
+        href: https://github.com/eco-sosa
+      - icon: instagram
+        href: https://instagram.com/eco.sosa
+      - icon: linkedin
+        href: https://linkedin.com/in/bsos
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: 
+      light: light.scss
+      dark: dark.scss
+    mainfont: Open Sans
+    # css: styles.css
     toc: true
-
-
-
+    link-external-newwindow: true
+    link-external-icon: false

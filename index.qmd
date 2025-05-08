@@ -1,11 +1,49 @@
 ---
-title: "Welcome to my website!"
+title: "Brandon Sosa"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-width: 180px
+  image-shape: round
+  image-alt: "Brandon Sosa profile photo"
+  links:
+    - icon: link
+      text: BlueSky
+      href: https://bsky.app/profile/eco-sosa.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/eco-sosa
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/eco.sosa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/bsos
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#hero-heading}
 
-```{r}
-1 + 1
-```
+I'm Brandon Sosa — an aspiring marine ecologist and environmental economist. Currently, I am a PhD candidate working to optimize coral reef restoration. My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, in the Florida Keys. I focus on the practical use of marine grazers like urchins and Caribbean king crabs to reduce algae and boost coral success.
+
+I was mentored by <a href="https://scholar.google.com/citations?user=oAfxdvAAAAAJ&hl=en" target="_blank">Dr. Mark Butler</a>, 
+whose pioneering work in marine invertebrate ecology shaped my early ecology and academic foundation. I am now co-advised by 
+<a href="https://myweb.fiu.edu/bhatm/" target="_blank">Dr. Mahadev Bhat</a>, an environmental economist specialized in natural resource management, and <a href="https://www.tropicalfishecologylab.com/" target="_blank">Dr. Alastair Harborne</a>, a coral reef ecologist focused on fish-habitat interactions and reef resilience.
+
+
+Outside the field, I’m passionate about science communication, ecosystem service valuation, and building tools that connect research to real-world decisions. Ask me about rock climbing, hiking, video games, snorkeling, SCUBA, or my pets!
+
+## Education
+
+**Florida International University**, PhD in Environmental Science (In Progress)  
+**University of Queensland**, Study Abroad, Marine Biology (2019)  
+**Purdue University**, B.S. in Aquatic Sciences (2020)
+
+## Experience
+
+- Reef restoration research with NOAA and FIU in support of Mission: Iconic Reefs initiative  
+- Social and economic survey design for marine ecosystem valuation  
+- Mariculture experiments in abandoned saltwater quarries  
+- Speaker and mentor in ecological economics and marine science workshops
+
+:::
