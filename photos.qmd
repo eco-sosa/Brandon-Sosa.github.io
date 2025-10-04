@@ -1,5 +1,427 @@
 ---
-title: "Photos"
+title: "Media & Outreach"
 ---
 
-Coming soon!
+# Science Communication & Media
+
+Sharing marine science through visual storytelling and public engagement.
+
+---
+
+## Field Work Gallery
+
+::: {layout-ncol=4}
+![](images/drone_above_reef.jpg)
+
+![](images/fish_dive.jpg)
+
+![](images/baby crab in the hand.jpg)
+
+![](images/crab-in-hand.jpg)
+
+![](images/reef_work.jpg)
+
+![](images/coral_sponge.jpg)
+
+![](images/upclose_coral.jpg)
+
+![](images/Shedd Night Ops.jpg)
+
+![](images/cage on side wall.jpg)
+
+![](images/cage_in_quarry.jpg)
+
+![](images/algae_quarry.jpg)
+
+![](images/ariel_quarries.JPG)
+
+![](images/two_quarries.jpg)
+
+![](images/heron_survey.jpg)
+
+![](images/Heron_Survey2.jpg)
+
+![](images/reef_lizard.jpg)
+
+![](images/brandon_dive.jpg)
+
+![](images/Crab_quarry_red_algae.jpg)
+
+![](images/Crab_quarry_w_algae.jpg)
+
+![](images/crab_baby.jpg)
+:::
+
+*Some shots by M. Martynek and K. Doyscher*
+
+---
+
+## Instagram Highlights
+
+<div class="instagram-grid">
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIxTkD5om-B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C-1RZyLozIO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DEa1u-QS3Op/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DH4eRfTy3cH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DG3GfYbRVtk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+---
+
+## Science Outreach
+
+Beyond social media, I engage in science communication through:
+
+- **Public Presentations** — Sharing research findings with community groups and stakeholders
+- **Workshop Facilitation** — Leading discussions on coral restoration and marine conservation
+- **Visual Science Communication** — Creating accessible content about marine ecology and restoration
+
+<style>
+/* Style for gallery images */
+.quarto-layout-panel {
+  gap: 0.3em !important;
+}
+
+.quarto-layout-panel img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  object-fit: cover;
+  width: 100%;
+  height: 200px;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.quarto-layout-panel img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+.quarto-layout-row {
+  margin-bottom: 0.3em !important;
+}
+
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.instagram-embed {
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  transform: scale(0.75);
+  transform-origin: top center;
+}
+
+.instagram-media {
+  max-width: 400px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+@media (max-width: 768px) {
+  .instagram-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .instagram-embed {
+    transform: scale(0.85);
+  }
+}
+
+h2 {
+  color: #2c5aa0;
+  border-bottom: 2px solid #e8f4f8;
+  padding-bottom: 0.5em;
+  margin-top: 2.5em;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  h2 {
+    border-bottom-color: rgba(44, 90, 160, 0.3);
+  }
+}
+</style>---
+title: "Media & Outreach"
+---
+
+# Science Communication & Media
+
+Sharing marine science through visual storytelling and public engagement.
+
+---
+
+## Field Work Gallery
+
+::: {layout-ncol=4}
+![](images/drone_above_reef.jpg)
+
+![](images/fish_dive.jpg)
+
+![](images/baby crab in the hand.jpg)
+
+![](images/crab-in-hand.jpg)
+
+![](images/reef_work.jpg)
+
+![](images/coral_sponge.jpg)
+
+![](images/upclose_coral.jpg)
+
+![](images/Shedd Night Ops.jpg)
+
+![](images/cage on side wall.jpg)
+
+![](images/cage_in_quarry.jpg)
+
+![](images/algae_quarry.jpg)
+
+![](images/ariel_quarries.JPG)
+
+![](images/two_quarries.jpg)
+
+![](images/heron_survey.jpg)
+
+![](images/Heron_Survey2.jpg)
+
+![](images/reef_lizard.jpg)
+
+![](images/brandon_dive.jpg)
+
+![](images/Crab_quarry_red_algae.jpg)
+
+![](images/Crab_quarry_w_algae.jpg)
+
+![](images/crab_baby.jpg)
+:::
+
+---
+
+## Instagram Highlights
+
+<div class="instagram-grid">
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DIxTkD5om-B/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/C-1RZyLozIO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DEa1u-QS3Op/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DH4eRfTy3cH/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DG3GfYbRVtk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" data-instgrm-version="14"></blockquote>
+</div>
+
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+---
+
+## Science Outreach
+
+Beyond social media, I engage in science communication through:
+
+- **Public Presentations** — Sharing research findings with community groups and stakeholders
+- **Workshop Facilitation** — Leading discussions on coral restoration and marine conservation
+- **Visual Science Communication** — Creating accessible content about marine ecology and restoration
+
+<style>
+/* Style for gallery images */
+.quarto-layout-panel {
+  gap: 0.3em !important;
+}
+
+.quarto-layout-panel img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  object-fit: cover;
+  width: 100%;
+  height: 200px;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.quarto-layout-panel img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+.quarto-layout-row {
+  margin-bottom: 0.3em !important;
+}
+
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.instagram-embed {
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  transform: scale(0.75);
+  transform-origin: top center;
+}
+
+.instagram-media {
+  max-width: 400px !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+
+@media (max-width: 768px) {
+  .instagram-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .instagram-embed {
+    transform: scale(0.85);
+  }
+}
+
+h2 {
+  color: #2c5aa0;
+  border-bottom: 2px solid #e8f4f8;
+  padding-bottom: 0.5em;
+  margin-top: 2.5em;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  h2 {
+    border-bottom-color: rgba(44, 90, 160, 0.3);
+  }
+}
+</style>---
+title: "Media & Outreach"
+---
+
+# Science Communication & Media
+
+Sharing marine science through visual storytelling and public engagement.
+
+---
+
+## Instagram Highlights
+
+<div class="instagram-grid">
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/YOUR_POST_ID/" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/YOUR_POST_ID/" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/YOUR_POST_ID/" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/YOUR_POST_ID/" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/YOUR_POST_ID/" data-instgrm-version="14"></blockquote>
+</div>
+
+<div class="instagram-embed">
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/YOUR_POST_ID/" data-instgrm-version="14"></blockquote>
+</div>
+
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+---
+
+## Science Outreach
+
+Beyond social media, I engage in science communication through:
+
+- **Public Presentations** — Sharing research findings with community groups and stakeholders
+- **Workshop Facilitation** — Leading discussions on coral restoration and marine conservation
+- **Visual Science Communication** — Creating accessible content about marine ecology and restoration
+
+<style>
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2em;
+  margin: 2em 0;
+}
+
+.instagram-embed {
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.instagram-media {
+  max-width: 540px;
+  width: 100%;
+  margin: 0 auto !important;
+}
+
+@media (max-width: 768px) {
+  .instagram-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+h2 {
+  color: #2c5aa0;
+  border-bottom: 2px solid #e8f4f8;
+  padding-bottom: 0.5em;
+  margin-top: 2.5em;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  h2 {
+    border-bottom-color: rgba(44, 90, 160, 0.3);
+  }
+}
+</style>

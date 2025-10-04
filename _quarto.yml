@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv.qmd
-        text: CV
       - href: research.qmd
         text: Research
+      - href: cv.qmd
+        text: CV
       - href: photos.qmd
-        text: Photos
+        text: Media
     right:
       - icon: link
         href: https://bsky.app/profile/eco-sosa.bsky.social
@@ -27,6 +27,10 @@ website:
 
 format:
   html:
+    grid:
+      sidebar-width: 200px
+      body-width: 1200px
+      margin-width: 200px
     theme: 
       light: light.scss
       dark: dark.scss
