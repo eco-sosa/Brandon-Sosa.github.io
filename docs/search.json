@@ -49,27 +49,6 @@
     "text": "Personal Interests\n\nOutside the field, I’m passionate about science communication, mentoring undergrads & new grad students, and creating tools that connect science with real-world decisions. Ask me about rock climbing, anime, hiking, snorkeling, SCUBA, or my pets.\n\n“Growing up in Miami taught me that connecting with nature isn’t about constant access — it’s about pausing to respect it, admire its complexity, and let those moments spark passion.”"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Brandon Sosa",
-    "section": "",
-    "text": "I’m Brandon Sosa — a Cuban-American marine ecologist and PhD candidate working to optimize coral reef restoration. My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, especially in the Florida Keys. I focus on the practical use of marine grazers like urchins and Caribbean king crabs to reduce algae and boost coral success.\nOutside the field, I’m passionate about science communication, ecosystem service valuation, and building tools that connect research to real-world decisions.\n\n\nFlorida International University, PhD in Environmental Science (In Progress)\nUniversity of Queensland, Study Abroad, Marine Biology (2019)\nPurdue University, B.S. in Aquatic Sciences (2018)\n\n\n\n\nCoral restoration research with NOAA, FIU, and the Mission: Iconic Reefs initiative\n\nSocial and economic survey design for marine ecosystem valuation\n\nMariculture experiments in abandoned saltwater quarries\n\nSpeaker and mentor in ecological economics and marine science workshops"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Brandon Sosa",
-    "section": "",
-    "text": "Florida International University, PhD in Environmental Science (In Progress)\nUniversity of Queensland, Study Abroad, Marine Biology (2019)\nPurdue University, B.S. in Aquatic Sciences (2018)"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Brandon Sosa",
-    "section": "",
-    "text": "Coral restoration research with NOAA, FIU, and the Mission: Iconic Reefs initiative\n\nSocial and economic survey design for marine ecosystem valuation\n\nMariculture experiments in abandoned saltwater quarries\n\nSpeaker and mentor in ecological economics and marine science workshops"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -140,18 +119,46 @@
     "text": "Skills and Certifications\nAnalysis & Software: Qualtrics, R Studio, Python, ArcGIS Pro, Github, Cost-Benefit Models, Restoration Modeling, Matlab, CPCe, CoralNet, Metashape, YSI KOR\nLaboratory: Aquacultural Construction, Animal Husbandry, Chemical Safety/Handling, Microscopy, PCR Genomic Analysis, Blood Analysis, Fish Necropsy\nField: Day and Night Boat Field Operation - Captain vessels up to 30 feet, AGRRA Fish Surveys, AAUS Scientific Diver (90+ Research Dives), Photogrammetry, Coral Restoration, Marine Benthic Surveys, Gill Netting, Electrofishing, Seine Sampling\nLanguages: English (native), Spanish (basic)"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Brandon Sosa",
+    "section": "",
+    "text": "I’m Brandon Sosa — a Cuban-American marine ecologist and PhD candidate working to optimize coral reef restoration. My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, especially in the Florida Keys. I focus on the practical use of marine grazers like urchins and Caribbean king crabs to reduce algae and boost coral success.\nOutside the field, I’m passionate about science communication, ecosystem service valuation, and building tools that connect research to real-world decisions.\n\n\nFlorida International University, PhD in Environmental Science (In Progress)\nUniversity of Queensland, Study Abroad, Marine Biology (2019)\nPurdue University, B.S. in Aquatic Sciences (2018)\n\n\n\n\nCoral restoration research with NOAA, FIU, and the Mission: Iconic Reefs initiative\n\nSocial and economic survey design for marine ecosystem valuation\n\nMariculture experiments in abandoned saltwater quarries\n\nSpeaker and mentor in ecological economics and marine science workshops"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Brandon Sosa",
+    "section": "",
+    "text": "Florida International University, PhD in Environmental Science (In Progress)\nUniversity of Queensland, Study Abroad, Marine Biology (2019)\nPurdue University, B.S. in Aquatic Sciences (2018)"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Brandon Sosa",
+    "section": "",
+    "text": "Coral restoration research with NOAA, FIU, and the Mission: Iconic Reefs initiative\n\nSocial and economic survey design for marine ecosystem valuation\n\nMariculture experiments in abandoned saltwater quarries\n\nSpeaker and mentor in ecological economics and marine science workshops"
+  },
+  {
+    "objectID": "F_C.html",
+    "href": "F_C.html",
+    "title": "Collaborators & Funding",
+    "section": "",
+    "text": "Grateful for the support and partnerships that make this research possible."
+  },
+  {
     "objectID": "photos.html",
     "href": "photos.html",
     "title": "Media & Outreach",
     "section": "",
-    "text": "Sharing marine science through visual storytelling and public engagement.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome shots by M. Martynek and K. Doyscher\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond social media, I engage in science communication through:\n\nPublic Presentations — Sharing research findings with community groups and stakeholders\nWorkshop Facilitation — Leading discussions on coral restoration and marine conservation\nVisual Science Communication — Creating accessible content about marine ecology and restoration"
+    "text": "Sharing marine science through visual storytelling and public engagement.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShots by B. Sosa M. Martynek and K. Doyscher\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeyond social media, I engage in science communication through:\n\nPublic Presentations — Sharing research findings with community groups and stakeholders\nWorkshop Facilitation — Leading discussions on coral restoration and marine conservation\nVisual Science Communication — Creating accessible content about marine ecology and restoration"
   },
   {
     "objectID": "photos.html#field-work-gallery",
     "href": "photos.html#field-work-gallery",
     "title": "Media & Outreach",
     "section": "",
-    "text": "Some shots by M. Martynek and K. Doyscher"
+    "text": "Shots by B. Sosa M. Martynek and K. Doyscher"
   },
   {
     "objectID": "photos.html#science-outreach",
@@ -159,40 +166,5 @@
     "title": "Media & Outreach",
     "section": "",
     "text": "Beyond social media, I engage in science communication through:\n\nPublic Presentations — Sharing research findings with community groups and stakeholders\nWorkshop Facilitation — Leading discussions on coral restoration and marine conservation\nVisual Science Communication — Creating accessible content about marine ecology and restoration"
-  },
-  {
-    "objectID": "photos.html#field-work-gallery-1",
-    "href": "photos.html#field-work-gallery-1",
-    "title": "Media & Outreach",
-    "section": "Field Work Gallery",
-    "text": "Field Work Gallery"
-  },
-  {
-    "objectID": "photos.html#instagram-highlights-1",
-    "href": "photos.html#instagram-highlights-1",
-    "title": "Media & Outreach",
-    "section": "Instagram Highlights",
-    "text": "Instagram Highlights"
-  },
-  {
-    "objectID": "photos.html#science-outreach-1",
-    "href": "photos.html#science-outreach-1",
-    "title": "Media & Outreach",
-    "section": "Science Outreach",
-    "text": "Science Outreach\nBeyond social media, I engage in science communication through:\n\nPublic Presentations — Sharing research findings with community groups and stakeholders\nWorkshop Facilitation — Leading discussions on coral restoration and marine conservation\nVisual Science Communication — Creating accessible content about marine ecology and restoration"
-  },
-  {
-    "objectID": "photos.html#instagram-highlights-2",
-    "href": "photos.html#instagram-highlights-2",
-    "title": "Media & Outreach",
-    "section": "Instagram Highlights",
-    "text": "Instagram Highlights"
-  },
-  {
-    "objectID": "photos.html#science-outreach-2",
-    "href": "photos.html#science-outreach-2",
-    "title": "Media & Outreach",
-    "section": "Science Outreach",
-    "text": "Science Outreach\nBeyond social media, I engage in science communication through:\n\nPublic Presentations — Sharing research findings with community groups and stakeholders\nWorkshop Facilitation — Leading discussions on coral restoration and marine conservation\nVisual Science Communication — Creating accessible content about marine ecology and restoration"
   }
 ]

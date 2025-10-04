@@ -1,0 +1,94 @@
+---
+title: "Collaborators & Funding"
+---
+
+Grateful for the support and partnerships that make this research possible.
+
+
+::: {.logo-grid}
+![](images/F_C/TFEL.avif)
+
+![](images/F_C/FIU_Agro.jpg)
+
+![](images/F_C/MDFlogo.jpg)
+
+![](images/F_C/nsf-crest-cache-logos.png)
+
+![](images/F_C/REVERSE.jpg)
+
+![](images/F_C/seacamp.png)
+
+![](images/F_C/FKNMS.png)
+
+![](images/F_C/6a38bb_4fd3dfcc7775485c8b865d53cd6725e8~mv2.avif)
+
+![](images/F_C/9973289-logo.png)
+
+![](images/F_C/Inst-WaterEnvironment-hrz-COLOR.webp)
+
+![](images/F_C/iwfa-header.webp)
+
+![](images/F_C/Shedd-Aquarium-logo.png)
+
+![](images/F_C/unnamed.png)
+
+![](images/F_C/FIU_UGS.jpeg)
+:::
+
+---
+
+<style>
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2.5em;
+  margin: 2em 0;
+  align-items: center;
+}
+
+.logo-grid img {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+  padding: 0.8em;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.logo-grid img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 768px) {
+  .logo-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5em;
+  }
+  
+  .logo-grid img {
+    max-width: 180px;
+  }
+}
+
+h1, h2 {
+  color: #2c5aa0;
+  border-bottom: 2px solid #e8f4f8;
+  padding-bottom: 0.5em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .logo-grid img {
+    background: rgba(255, 255, 255, 0.95);
+  }
+  
+  h1, h2 {
+    border-bottom-color: rgba(44, 90, 160, 0.3);
+  }
+}
+</style>
