@@ -54,7 +54,7 @@ Back at Purdue, I worked as a research technician in the [Höök Lab](https://we
 
 ### Current Research at FIU
 
-![Coral Reef Ecology](images/drone_above_reef.jpg){.section-image style="width: 100%; max-width: 600px; height: 300px; object-fit: cover; border-radius: 12px; margin: 1.5em auto; display: block; box-shadow: 0 6px 20px rgba(0,0,0,0.1);"}
+![](images/drone_above_reef.jpg){.section-image style="width: 100%; max-width: 600px; height: 300px; object-fit: cover; border-radius: 12px; margin: 1.5em auto; display: block; box-shadow: 0 6px 20px rgba(0,0,0,0.1);"}
 
 Today, I'm pursuing a Ph.D. in Natural Resource Management and Environmental Economics at Florida International University, blending ecological research with economic and social insight. I was mentored by [Dr. Mark Butler](https://scholar.google.com/citations?user=oAfxdvAAAAAJ&hl=en), whose pioneering work in marine invertebrate ecology shaped my academic foundation. I am now co-advised by:
 
