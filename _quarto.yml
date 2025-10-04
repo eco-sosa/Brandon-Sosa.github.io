@@ -14,6 +14,8 @@ website:
         text: CV
       - href: photos.qmd
         text: Media
+      - href: F_C.qmd
+        text: Collaborators & Funding        
     right:
       - icon: link
         href: https://bsky.app/profile/eco-sosa.bsky.social
