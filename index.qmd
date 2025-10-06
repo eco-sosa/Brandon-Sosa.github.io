@@ -28,6 +28,8 @@ about:
 
 I'm Brandon Sosa — a marine ecologist and environmental economist. Currently, I am a PhD candidate working to better understand and optimize reef management. My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, in the Florida Keys. I focus on the practical use of marine grazers like urchins and Caribbean king crabs to reduce algae and boost coral success.
 
+Explore the different tabs to learn about my research or check out some of my media!
+
 ![](images/fish_dive.jpg){.hero-image style="width: 100%; max-width: 800px; height: 400px; object-fit: cover; border-radius: 15px; margin: 4em auto 4em auto; display: block; box-shadow: 0 8px 32px rgba(0,0,0,0.1);"}
 
 ---
@@ -67,7 +69,7 @@ My current research focuses on how marine grazers — like Caribbean King Crabs 
 
 [![Everglades Research](images/everglades.PNG){.section-image style="width: 100%; max-width: 500px; height: 250px; object-fit: cover; border-radius: 12px; margin: 1.5em auto; display: block; box-shadow: 0 6px 20px rgba(0,0,0,0.1); float: right; margin-left: 2em; cursor: pointer; transition: transform 0.3s ease;"}](https://b797e412-2757-4f33-af72-a0f87d5b59ea.usrfiles.com/ugd/d45609_d489ae3e21024e3da5e8024227993854.pdf)
 
-Beyond my dissertation, I've collaborated with the [Everglades Foundation](https://www.evergladesfoundation.org/) to support a total ecosystem service valuation of the Greater Everglades system. This work has included the development of benefit-transfer approaches, organizing professional workshops, and identifying critical knowledge gaps in how we value wetlands, fisheries, water quality, and coastal resilience.
+Beyond my dissertation, I've collaborated with the [Everglades Foundation](https://www.evergladesfoundation.org/) to support a total ecosystem service valuation of the Greater Everglades system. This work has included the development of benefit-transfer approaches and identifying critical knowledge gaps in how we value wetlands, fisheries, water quality, and coastal resilience.
 
 **[📄 View the Complete Report →](https://b797e412-2757-4f33-af72-a0f87d5b59ea.usrfiles.com/ugd/d45609_d489ae3e21024e3da5e8024227993854.pdf)**
 
@@ -81,7 +83,7 @@ It's been a rewarding opportunity to bridge ecological economics with large-scal
 
 
 
-Outside the field, I'm passionate about science communication, mentoring undergrads & new grad students, and creating tools that connect science with real-world decisions. Ask me about rock climbing, anime, hiking, snorkeling, SCUBA, or my pets.
+Outside the field, I'm passionate about science communication, mentoring undergrads & new grad students, and creating tools that connect science with real-world decisions. Ask me about rock climbing, photography, hiking, snorkeling, SCUBA, or my pets.
 
 <div class="personal-note" style="background: linear-gradient(135deg, #e8f4f8 0%, #d1ecf1 100%); padding: 2em; border-radius: 15px; margin: 2em 0; border-left: 5px solid #2c5aa0;">
 
