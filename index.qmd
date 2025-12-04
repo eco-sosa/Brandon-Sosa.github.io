@@ -11,22 +11,29 @@ about:
     - icon: link
       text: BlueSky
       href: https://bsky.app/profile/eco-sosa.bsky.social
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/eco-sosa
+      target: _blank
     - icon: instagram
       text: Instagram
       href: https://instagram.com/eco.sosa
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/bsos
+      target: _blank
 ---
+
 
 :::{#hero-heading}
 
 :::
 
-I'm Brandon Sosa — a marine ecologist and environmental economist. Currently, I am a PhD candidate working to better understand and optimize reef management. My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, in the Florida Keys. I focus on the practical use of marine grazers like urchins and crabs to reduce algae and boost reef restoration success.
+I'm Brandon Sosa am a PhD candidate in the [Tropical Fish Ecology Lab](https://www.tropicalfishecologylab.com/). 
+
+My research bridges ecological fieldwork, economic valuation, and dynamic modeling to support large-scale reef recovery, in the Florida Keys. I focus on the practical use of marine grazers like urchins and crabs to reduce algae and boost reef restoration success.
 
 Explore the different tabs to learn about my research or check out some of my media!
 
