@@ -1,5 +1,6 @@
 ---
 title: "Media & Outreach"
+lightbox: true
 ---
 
 # Science Communication & Media
@@ -60,19 +61,28 @@ Sharing marine science through visual storytelling and public engagement.
 
 <div class="instagram-grid">
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DIxTkD5om-B/" data-instgrm-version="14"></blockquote>
+  <blockquote class="instagram-media" 
+    data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/reel/DIxTkD5om-B/"
+    data-instgrm-version="14">
+  </blockquote>
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/C-1RZyLozIO/" data-instgrm-version="14"></blockquote>
+  <blockquote class="instagram-media" 
+    data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C-1RZyLozIO/"
+    data-instgrm-version="14">
+  </blockquote>
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/DEa1u-QS3Op/" data-instgrm-version="14"></blockquote>
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DH4eRfTy3cH/" data-instgrm-version="14"></blockquote>
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DG3GfYbRVtk/" data-instgrm-version="14"></blockquote>
+  <blockquote class="instagram-media" 
+    data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DEa1u-QS3Op/"
+    data-instgrm-version="14">
+  </blockquote>
 
 </div>
 
 <script async src="https://www.instagram.com/embed.js"></script>
+
 
 ---
 
@@ -85,6 +95,10 @@ Beyond social media, I engage in science communication through:
 - **Visual Science Communication** — Creating accessible content about marine ecology and restoration
 
 <style>
+/* ------------------------------ */
+/*   Gallery (Field Work Photos)  */
+/* ------------------------------ */
+
 .quarto-layout-panel {
   gap: 0.3em !important;
 }
@@ -110,24 +124,54 @@ Beyond social media, I engage in science communication through:
   margin-bottom: 0.3em !important;
 }
 
+
+/* ------------------------------ */
+/*        Instagram Grid          */
+/* ------------------------------ */
+
 .instagram-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 1.5em;
   margin: 2em 0;
+  overflow: hidden;
 }
+
+
+/* -------------------------------- */
+/*     Instagram Embed Fixes        */
+/* -------------------------------- */
 
 .instagram-media {
   max-width: 540px !important;
   width: 100% !important;
   margin: 0 auto !important;
+  padding: 0 !important;
 }
 
+.instagram-media > div {
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+
+/* Remove the extra "white box" IG sometimes injects */
+.instagram-media + script,
+.instagram-media + div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Mobile layout */
 @media (max-width: 768px) {
   .instagram-grid {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* ------------------------------ */
+/*            Headings            */
+/* ------------------------------ */
 
 h2 {
   color: #2c5aa0;
@@ -141,4 +185,9 @@ h2 {
     border-bottom-color: rgba(44, 90, 160, 0.3);
   }
 }
+.instagram-grid blockquote.instagram-media:last-child {
+  display: none !important;
+}
+
 </style>
+
