@@ -29,10 +29,10 @@ My work bridges marine ecology, environmental economics, and restoration science
 **Caribbean Reef Restoration Interventions** | *Biotic Intervention Lead*  
 Leading biotic subgroup (grazer stocking, supportive habitat restoration, species removal) developing recommendations for advanced coral restoration strategies across the Caribbean through the Reef Futures Workshop.
 
-Marine Grazer Research | *Lead Researcher*
+**Marine Grazer Research** | *Lead Researcher*
 Investigating how Caribbean King Crabs and long-spined sea urchins enhance coral restoration success through dynamic modeling, socioeconomic analysis, and mariculture experiments.
 
-Coral–Crab Restoration Project | *Collaborative Researcher*
+**Coral–Crab Restoration Project** | *Collaborative Researcher*
 Restoring corals alongside stocking crab grazers, while monitoring impacts on reef health metrics such as fish abundance, benthic composition, and coral outplant survival.
 
 **Marine Sponge Research** | *Collaborative Researcher*  
@@ -60,7 +60,7 @@ Comprehensive meta-analysis examining bioaccumulation and maternal transfer of m
 
 Over the years, I have contribute to collaborative projects across marine science:
 
-**Coral Biology & Restoration** • **Reef Fish Ecology** • **Lobster Population Dynamics** • **Sponge Community Ecology** • **Reef Biogeochemistry**
+**Coral Biology & Restoration** • **Reef Fish Ecology** • **Lobster Biology and Ecology** • **Marine Sponge Ecology** • **Reef Biogeochemistry** • **Fish Toxicology** • **Mariculture**
 
 <div class="image-grid" style="display: flex; gap: 2%; margin: 3em 0;">
 ![Field Research](images/baby crab in the hand.jpg){style="width: 48%; border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);"}
@@ -71,7 +71,7 @@ Over the years, I have contribute to collaborative projects across marine scienc
 
 ## Research Impact
 
-My interdisciplinary approach combines rigorous science with economic analysis and social science methods to develop restoration strategies that are ecologically effective and socially feasible. This work directly informs management decisions and policy recommendations for coral reef conservation in South Florida and the Caribbean.
+My interdisciplinary approach combines ecology with economic analysis and social science methods to develop restoration strategies that are effective and feasible. I aim for this work to contribute to management decisions and policy conversations that guide coral reef conservation in South Florida and the Caribbean.
 
 <style>
 .callout {
