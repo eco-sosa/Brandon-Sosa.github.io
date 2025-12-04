@@ -20,12 +20,16 @@ website:
       - icon: link
         href: https://bsky.app/profile/eco-sosa.bsky.social
         text: BlueSky
+        target: _blank
       - icon: github
         href: https://github.com/eco-sosa
+        target: _blank
       - icon: instagram
         href: https://instagram.com/eco.sosa
+        target: _blank
       - icon: linkedin
         href: https://linkedin.com/in/bsos
+        target: _blank
 
 format:
   html:
