@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-
 website:
+  site-url: https://eco-sosa.github.io/Brandon-Sosa.github.io/
   title: "Brandon Sosa"
   favicon: images/favicon.ico
   navbar:
@@ -31,7 +31,6 @@ website:
       - icon: linkedin
         href: https://linkedin.com/in/bsos
         target: _blank
-
   page-footer:
     center: |
       <span style="opacity:0.9;">
@@ -40,8 +39,6 @@ website:
         &nbsp;•&nbsp;
         <a href="mailto:bsosa012@fiu.edu">bsosa012@fiu.edu</a>
       </span>
-
-
 format:
   html:
     grid:
@@ -52,7 +49,6 @@ format:
       light: light.scss
       dark: dark.scss
     mainfont: Open Sans
-    # css: styles.css
     toc: true
     link-external-newwindow: true
     link-external-icon: false

@@ -78,7 +78,7 @@ My current research focuses on how marine grazers — like Caribbean King Crabs 
 
 Beyond my dissertation, I've collaborated with the [Everglades Foundation](https://www.evergladesfoundation.org/) to support a total ecosystem service valuation of the Greater Everglades system. This work has included the development of benefit-transfer approaches and identifying critical knowledge gaps in how we value wetlands, fisheries, water quality, and coastal resilience.
 
-**[📄 View the Complete Report →](https://b797e412-2757-4f33-af72-a0f87d5b59ea.usrfiles.com/ugd/d45609_d489ae3e21024e3da5e8024227993854.pdf)**
+**[📄 View the Complete Report →](https://b797e412-2757-4f33-af72-a0f87d5b59ea.usrfiles.com/ugd/d45609_d489ae3e21024e3da5e8024227993854.pdf)** or check out the **[landing page →](https://www.evergladesfoundation.org/itsworthit)**
 
 It's been a rewarding opportunity to bridge ecological economics with large-scale restoration planning — and bring actionable insights to resource managers and policy discussions.
 
@@ -92,11 +92,21 @@ It's been a rewarding opportunity to bridge ecological economics with large-scal
 
 Outside the field, I'm passionate about science communication, mentoring undergrads & new grad students, and creating tools that connect science with real-world decisions. Ask me about rock climbing, drones and photography, hiking, snorkeling, SCUBA, or my pets.
 
-<div class="personal-note" style="background: linear-gradient(135deg, #e8f4f8 0%, #d1ecf1 100%); padding: 2em; border-radius: 15px; margin: 2em 0; border-left: 5px solid #2c5aa0;">
 
-*“Growing up in Miami taught me that connecting with nature isn’t about constant access — it’s about pausing to respect it, admire its complexity, and let those moments spark passion.”*
 
+
+
+---
+
+
+
+<div style="margin-top: 9em;">
+  “A nation that destroys its soils destroys itself.”  
+  <br><span style="font-weight: bold;">— Franklin D. Roosevelt</span><br>
+  <span style="font-size: 0.9em;">1937 Conservation Message to Congress</span>
 </div>
+
+
 
 <style>
 /* Go back to what we know works - just make the links sticky */
