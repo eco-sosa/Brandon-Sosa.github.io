@@ -43,7 +43,7 @@ Explore the different tabs to learn about my research or check out some of my me
 
 ## About Me
 
-I was raised in Hialeah, Florida (outskirts of Miami). Growing up in a dense urban environment, my connection to nature didn't come from daily access, but from moments of immersion — camping with the Boy Scouts in the Everglades, participating in beach cleanups along the mangrove coastlines, and eventually diving into the world of marine science.
+I was born and raised in Hialeah, Florida (outskirts of Miami). Growing up in a dense urban environment, I connected with nature through camping in the Everglades, participating in beach cleanups along the mangrove islands, and eventually diving into the world of marine science.
 
 <div class="image-grid">
 ![Crab Research](images/baby crab in the hand.jpg){.research-image style="width: 31%; border-radius: 10px; margin: 1em 1% 1em 0;"}
@@ -51,24 +51,27 @@ I was raised in Hialeah, Florida (outskirts of Miami). Growing up in a dense urb
 ![Reef Work](images/reef_work.jpg){.research-image style="width: 31%; border-radius: 10px; margin: 1em 0 1em 1%;"}
 </div>
 
-I began my undergraduate journey at Purdue University on a Wildlife pre-veterinary track, gaining experience in animal diagnostics and care. But a shift happened when I was awarded a *Benjamin A. Gilman International Scholarship* to study abroad at the **University of Queensland**. There, under the mentorship of Dr. Robert Mason in the Spatial Marine Ecology Lab, I contributed to a review on the ecological impacts of boat groundings and anchoring on coral reefs.
+### Academic Journey
+
+I started at *Purdue University* on a Wildlife pre-veterinary track before a *Benjamin A. Gilman International Scholarship* took me to the **University of Queensland**. There, I worked with Dr. Robert Mason in the Spatial Marine Ecology Lab on a review of boat grounding and anchoring impacts on coral reefs. A UQ symposium showcasing collaborative reef science convinced me to pursue marine ecology.
 
 > **Research Highlight:** I had the fortune of conducting small research projects in Australia at Heron Island in 2020 (Southern GBR) and Lizard Island in 2025 (Northern GBR)
 
-What truly solidified my decision to pursue marine science was attending a UQ-hosted symposium that showcased a wide range of reef-focused research. The event revealed a vibrant and collaborative marine science community all working toward the protection and restoration of marine environments — and I knew I wanted to be a part of it.
+Back at Purdue, I worked as a research technician in the [Höök Lab](https://web.ics.purdue.edu/~thook/index.html), assisting in a study on microplastic trophic transfer in freshwater fish ([see publication](https://doi.org/10.1016/j.scitotenv.2023.166691)). I later led a meta-analysis on mercury and PCB bioaccumulation and maternal transfer effects on fish offspring (manuscript in revision, 09/2025 *Fish and Fisheries*).
 
-### Academic Journey
+![](images/Fish size.png){.research-image style="width: 50%; border-radius: 10px; margin: 1em 0 1em 1%;" fig-alt="Fish meta-analysis figure"}
 
-Back at Purdue, I worked as a research technician in the [Höök Lab](https://web.ics.purdue.edu/~thook/index.html), where I assisted on a study examining how microplastics impact aquatic food webs — work that contributed to a published article on trophic transfer and behavioral effects in freshwater fish ([see publication](https://doi.org/10.1016/j.scitotenv.2023.166691)). Later, I led a meta-analysis examining the bioaccumulation and maternal transfer of toxicants (Hg and PCBs), and determine effect on offspring hatching, survival and growth (manuscript submitted, 09/2025 *Fish and Fisheries*).
+
+
 
 ### Current Research at FIU
 
 ![](images/drone_above_reef.jpg){.section-image style="width: 100%; max-width: 600px; height: 300px; object-fit: cover; border-radius: 12px; margin: 1.5em auto; display: block; box-shadow: 0 6px 20px rgba(0,0,0,0.1);"}
 
-Today, I'm pursuing a Ph.D. in Natural Resource Management and Environmental Economics at Florida International University, blending ecological research with economic and social insight. I was mentored by [Dr. Mark Butler](https://scholar.google.com/citations?user=oAfxdvAAAAAJ&hl=en), whose pioneering work in marine invertebrate ecology shaped my academic foundation. I am now co-advised by:
+Today, I'm pursuing a Ph.D. in Natural Resource Science and Management at [Florida International University](https://environment.fiu.edu/index.html), blending ecological research with economic and social insight. I was mentored by [Dr. Mark Butler](https://scholar.google.com/citations?user=oAfxdvAAAAAJ&hl=en) [{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=oAfxdvAAAAAJ&hl=en), whose pioneering work in marine invertebrate ecology shaped my academic foundation. I am now co-advised by:
 
-- **[Dr. Mahadev Bhat](https://myweb.fiu.edu/bhatm/)** - Environmental economist focused on natural resource management
-- **[Dr. Alastair Harborne](https://www.tropicalfishecologylab.com/)** - Coral reef ecologist specializing in fish-habitat interactions and reef resilience
+- **[Dr. Mahadev Bhat](https://myweb.fiu.edu/bhatm/)** [{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=x_x02YwAAAAJ&hl=en) - Environmental economist focused on natural resource management
+- **[Dr. Alastair Harborne](https://case.fiu.edu/about/directory/profiles/harborne-alastair.html)** [{{< fa brands google-scholar >}}](https://scholar.google.com/citations?user=LcANET4AAAAJ&hl=en) - Coral reef ecologist specializing in fish-habitat interactions and reef resilience
 
 My current research focuses on how marine grazers — like Caribbean King Crabs and long-spined sea urchins — can help reduce algae and enhance coral restoration success in the Florida Keys. I integrate field ecology, mariculture, ecological modeling, and social survey methods to understand which strategies work best, and how to communicate their value to the public and managers.
 
@@ -90,7 +93,7 @@ It's been a rewarding opportunity to bridge ecological economics with large-scal
 
 
 
-Outside the field, I'm passionate about science communication, mentoring undergrads & new grad students, and creating tools that connect science with real-world decisions. Ask me about rock climbing, drones and photography, hiking, snorkeling, SCUBA, or my pets.
+Outside the field, I'm passionate about science communication, mentoring undergrads & new grad students, and creating tools that connect science with real-world decisions. Ask me about rock climbing, drones/photography, hiking, snorkeling, SCUBA, or my pets.
 
 
 
@@ -101,9 +104,9 @@ Outside the field, I'm passionate about science communication, mentoring undergr
 
 
 <div style="margin-top: 9em;">
-  “A nation that destroys its soils destroys itself.”  
-  <br><span style="font-weight: bold;">— Franklin D. Roosevelt</span><br>
-  <span style="font-size: 0.9em;">1937 Conservation Message to Congress</span>
+  “We should preserve every scrap of biodiversity as priceless while we learn to use it and come to understand what it means to humanity.”  
+  <br><span style="font-weight: bold;">— E. O. Wilson </span><br>
+  <span style="font-size: 0.9em;">"The Diversity of Life", 1992.</span>
 </div>
 
 

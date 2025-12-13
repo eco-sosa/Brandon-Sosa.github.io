@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+filters:
+  - fontawesome
 website:
   site-url: https://eco-sosa.github.io/Brandon-Sosa.github.io/
   title: "Brandon Sosa"
