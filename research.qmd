@@ -1,10 +1,10 @@
 ---
-title: "Research"
+title: ""
 ---
 
 ::: {.callout-note icon=false}
-# **Research Highlights**
-# *Reefs to Wetlands, Ecology to Economics*
+
+# [*Reefs to Wetlands, Ecology to Economics*]{style="font-size: 1.5em;"}
 
 - **Everglades Economic Valuation** — Contributing to comprehensive ecosystem service valuation with The Everglades Foundation
 - **Quarry Mariculture Research** — Testing innovative grow-out methods for Caribbean King Crabs to scale up restoration and reduce macroalgae on reefs.
@@ -60,7 +60,7 @@ Comprehensive meta-analysis examining bioaccumulation and maternal transfer of m
 
 Over the years, I have contribute to collaborative projects across marine science:
 
-**Coral Biology & Restoration** • **Reef Fish Ecology** • **Lobster Biology and Ecology** • **Marine Sponge Ecology** • **Reef Biogeochemistry** • **Fish Toxicology** • **Mariculture**
+**Reef Ecology & Restoration** • **Socioeconomic Surveys** • **Fish Ecology** • **Spiny Lobster Research** • **Marine Sponge Ecology** • **Reef Biogeochemistry** • **Fish Toxicology** • **Mariculture** • **Benefit-Cost Analysis** • **Environmental Economics**
 
 <div class="image-grid" style="display: flex; gap: 2%; margin: 3em 0;">
 ![Field Research](images/baby crab in the hand.jpg){style="width: 48%; border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);"}
