@@ -3,15 +3,24 @@ title: "Media & Outreach"
 lightbox: true
 ---
 
-{{< video https://youtu.be/YRDebP3ltZw width="100%" height="400" >}}
-
-# Science Communication & Media
+#### Science Communication & Media
 
 Sharing marine science through visual storytelling and public engagement.
+Here are some science communication projections I had to privilege to collobrate on and produce as YouTube videos
 
 ---
 
-## Field Work Gallery
+::: {layout-ncol=2}
+
+{{< video https://youtu.be/YRDebP3ltZw width="100%" height="300" >}}
+
+{{< video https://youtu.be/4mjnck2iWtU width="100%" height="300" >}}
+
+:::
+
+---
+
+#### Field Work Gallery
 
 ::: {layout-ncol=4}
 ![](images/drone_above_reef.jpg)
