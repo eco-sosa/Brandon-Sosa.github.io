@@ -20,41 +20,38 @@ My work bridges marine ecology, environmental economics, and restoration science
 
 ![](images/drone_above_reef.jpg){style="width: 100%; max-width: 700px; height: 300px; object-fit: cover; border-radius: 15px; margin: 2em auto; display: block; box-shadow: 0 8px 32px rgba(0,0,0,0.1);"}
 
----
+***
 
 ## Research Themes
 
 ### **Marine Restoration Ecology**
 
-**Caribbean Reef Restoration Interventions** | *Biotic Intervention Lead*  
+**Caribbean Reef Restoration Interventions** | *Biotic Intervention Lead*<br>
 Leading biotic subgroup (grazer stocking, supportive habitat restoration, species removal) developing recommendations for advanced coral restoration strategies across the Caribbean through the Reef Futures Workshop.
 
-**Marine Grazer Research** | *Lead Researcher*
+**Marine Grazer Research** | *Doctoral Researcher*<br>
 Investigating how Caribbean King Crabs and long-spined sea urchins enhance coral restoration success through dynamic modeling, socioeconomic analysis, and mariculture experiments.
 
-**Coral–Crab Restoration Project** | *Collaborative Researcher*
+**Coral–Crab Restoration Project** | *Research Assistant*<br>
 Restoring corals alongside stocking crab grazers, while monitoring impacts on reef health metrics such as fish abundance, benthic composition, and coral outplant survival.
-
-**Marine Sponge Research** | *Collaborative Researcher*  
-Testing physiological and environmental stressors on marine sponges to understand their resilience and ecosystem role under changing conditions.
 
 ### **Environmental Economics**
 
-**Everglades Economic Valuation** | *Research Consultant*  
+**Everglades Economic Valuation** | *Research Consultant*<br>
 Contributing to comprehensive economic valuation of the Greater Everglades system, developing benefit-transfer approaches and stakeholder engagement strategies. [View Report](https://b797e412-2757-4f33-af72-a0f87d5b59ea.usrfiles.com/ugd/d45609_d489ae3e21024e3da5e8024227993854.pdf)
 
-**Florida Socioeconomic Reef Survey ** | *Lead Researcher*  
+**Florida Socioeconomic Reef Survey** | *Doctoral Researcher*<br>
 Designing surveys to understand public perceptions and willingness-to-pay for marine restoration interventions to inform policy and communication strategies.
 
-**Florida Coastal Everglades LTER** | *Collaborative Researcher*
+**Florida Coastal Everglades LTER** | *Collaborative Researcher*<br>
 Investigating the benefit–cost ratio of the Comprehensive Everglades Restoration Plan (CERP), evaluating how large-scale restoration initiatives impact ecosystem services and provide long-term returns for communities and the environment.
 
 ### **Toxicology & Fish Biology**
 
-**Fish Toxicant Meta-Analysis** | *Lead Researcher*  
+**Fish Toxicant Meta-Analysis** | *Lead Researcher*<br>
 Comprehensive meta-analysis examining bioaccumulation and maternal transfer of mercury and PCBs in freshwater fish, focusing on impacts on offspring survival and growth. (manuscript submitted 9/2025 *Fish and Fisheries*)
 
----
+***
 
 ## Supporting Research Activities
 
