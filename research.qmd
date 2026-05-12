@@ -12,6 +12,32 @@ title: ""
 - **Reef Futures Leadership** — Leading biotic intervention working group to develop Caribbean-wide recommendations for advanced restoration strategies
 :::
 
+
+## Publications
+
+**Sosa, B.**, Malinowski, C., and Höök, T. (2026). Implications of Maternal Toxicant Effects on Size-Dependent Fisheries' Management: A Meta-Analysis. *Fish and Fisheries* 1–17. [https://doi.org/10.1111/faf.70089](https://doi.org/10.1111/faf.70089)
+
+
+**Manuscripts in Preparation or in Review**
+
+**Sosa, B.**, Jarrett, M., and Butler, M.J. Quarry-based mariculture of the herbivorous Caribbean King Crab in support of coral reef restoration. *Manuscript in review* at Aquaculture Reports. [*SSRN*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907974)
+
+**Sosa, B.**, and Bhat, M. Restoring Reefs: Willingness-to-Pay for Coral Reef Restoration Outcomes Under Uncertain Climate Futures. *Manuscript in preparation*.
+
+Bhat, M., Chabba, M., **Sosa, B.**, Vorseth, C., and Fache, A. Everglades Restoration Under Climate Change: A Benefit-Cost Analysis Across Future Scenarios. *Manuscript in preparation*.
+
+Dilworth, J., Blanco Pimentel, M., Cunning, R., Dixon, S., Gamache, M., Gomez, M., Grottoli, A.G., Hackerott, S., Hall, C., Karp, R., Olivares-Cordero, D., **Sosa, B.**, The Workshop Consortium, and Kenkel, C.D. Co-designing a future for Caribbean reefs: recommendations for the implementation of advanced coral restoration strategies. *Manuscript in preparation*.
+
+**Technical Reports and Policy Briefs**
+
+Goldstein, B., & Caribbean Restoration Interventions Forum. (2025). Advancing Coral Reef Interventions in the Caribbean: Overcoming Barriers and Enabling Action. Coral Restoration Consortium. [*Policy Brief*](https://doi.org/10.5281/zenodo.17603166)
+
+Duran, A., Avedo, A., Barreira, W., **Sosa, B.**, and Hiaasen, C. (2025). Scaling up mariculture of a native herbivore in support of "Mission: Iconic Reefs" coral reef restoration. [*FDEP Internal Report*](https://floridadep.gov/sites/default/files/Deliverable%201.a%20FINAL%20Report.pdf), 15 pp.
+
+Cousins, K., Fletcher, A., Hindsley, P., Chabba, M., Lin, A., Needell, A., Ketu, Y., Delaney, G., Aguirre N., **Sosa, B.** (2025). Thriving Everglades, Thriving Economy: Nature's Value in the Everglades. Earth Economics and The Everglades Foundation. [*Technical Report*](https://b797e412-2757-4f33-af72-a0f87d5b59ea.usrfiles.com/ugd/d45609_d489ae3e21024e3da5e8024227993854.pdf).
+
+
+
 ---
 
 # Research Portfolio
@@ -49,7 +75,7 @@ Investigating the benefit–cost ratio of the Comprehensive Everglades Restorati
 ### **Toxicology & Fish Biology**
 
 **Fish Toxicant Meta-Analysis** | *Lead Researcher*<br>
-Comprehensive meta-analysis examining bioaccumulation and maternal transfer of mercury and PCBs in freshwater fish, focusing on impacts on offspring survival and growth. (manuscript submitted 9/2025 *Fish and Fisheries*)
+Comprehensive meta-analysis examining bioaccumulation and maternal transfer of mercury and PCBs in freshwater fish, focusing on impacts on offspring survival and growth. [(Sosa et al. 2026)](https://doi.org/10.1111/faf.70089)
 
 ***
 
